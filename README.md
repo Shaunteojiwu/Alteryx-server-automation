@@ -1,1 +1,1 @@
-This code aim to automate the process of fetching data from the serve
+This code aim to automate the process of fetching data from the server
